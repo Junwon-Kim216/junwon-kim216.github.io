@@ -78,4 +78,3 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Alloca
 
 ---
 
-📄 [Download CV (PDF)](/files/Junwon_Kim_CV.pdf) — full version including leadership and service.
