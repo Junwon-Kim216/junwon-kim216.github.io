@@ -14,7 +14,7 @@ redirect_from:
     <div class="tag-chips">
       <span class="chip">Machine Learning for Wireless Networks</span>
       <span class="chip">Next-Generation Networks</span>
-      <span class="chip">Network Resource Allocation</span>
+      <span class="chip">Network Resource Management</span>
       <span class="chip">Multi-access Edge Computing</span>
       <span class="chip">Non-Terrestrial Networks</span>
     </div>
