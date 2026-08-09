@@ -20,7 +20,7 @@ author_profile: true
 
 ## Research Interests
 
-Machine Learning for Wireless Networks, Network Optimization and Resource Allocation, Multi-access Edge Computing, Reinforcement Learning and Transformer-based Models, 6G Non-Terrestrial Networks (NTN)
+Machine Learning for Wireless Networks, Network Optimization and Resource Management, Multi-access Edge Computing, Reinforcement Learning and Transformer-based Models, 6G Non-Terrestrial Networks (NTN)
 
 ## Publications
 
