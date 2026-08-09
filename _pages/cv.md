@@ -42,7 +42,7 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Manage
     * **Research Intern** (Advisor: Prof. Jong-Moon Chung)
     * Learning-based optimization for wireless networks, spanning satellite and UAV systems
 - **Robotic & Mobile Networks Laboratory (RAMO), Yonsei University**, Jan. 2024 – Jun. 2024
-    * **Research Intern, Undergraduate Thesis** (Advisor: Prof. Seonglyun Kim)
+    * **Research Intern, Undergraduate Thesis** (Advisor: Prof. Seong-Lyun Kim)
     * URLLC remote robot control with edge inference offloading over a private 5G MEC testbed
 
 ## Selected Projects
