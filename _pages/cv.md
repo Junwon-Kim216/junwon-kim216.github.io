@@ -37,13 +37,13 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Manage
 
 - **Communications & Networking Laboratory (CNL), Yonsei University**, Mar. 2025 – Present
     * **Graduate Research Assistant** (Advisor: Prof. Jong-Moon Chung)
-    * Learning-based handover and routing for 6G NTN/LEO satellite networks: reinforcement-learning handover policies evaluated through large-scale network simulation, and GT-PAR, a graph-transformer framework for joint traffic prediction and adaptive routing (first author)
+    * Learning-based network control and resource management for dynamic wireless networks, including 6G NTN/LEO systems
 - **Communications & Networking Laboratory (CNL), Yonsei University**, Jul. 2024 – Feb. 2025
-    * **Research Intern**
-    * Learning-based network optimization for satellite and UAV networks; implemented and benchmarked handover and routing schemes through network simulation
+    * **Research Intern** (Advisor: Prof. Jong-Moon Chung)
+    * Learning-based optimization for wireless networks, spanning satellite and UAV systems
 - **Robotic & Mobile Networks Laboratory (RAMO), Yonsei University**, Jan. 2024 – Jun. 2024
     * **Research Intern, Undergraduate Thesis** (Advisor: Prof. Seonglyun Kim)
-    * Implemented robot vision inference offloading and URLLC remote robot control on a private 5G MEC testbed, with a real-time safety mechanism that halts and resumes the robot upon object intrusion
+    * URLLC remote robot control with edge inference offloading over a private 5G MEC testbed
 
 ## Selected Projects
 
