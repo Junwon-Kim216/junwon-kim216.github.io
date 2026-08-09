@@ -52,7 +52,7 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Alloca
     * Outstanding Presentation Award, 8th Industry–Academia Project Showcase, Future Mobility Program, Yonsei University
 - **UAV-Based Dynamic Object Recognition for Digital Land-Information Mapping**, Jan. 2025 – Present
     * Research Assistant, Ministry of Land, Infrastructure and Transport (MOLIT)-funded national R&D program
-    * Deep learning-based detection of road objects from UAV aerial imagery; met accuracy and latency targets in official certification testing
+    * Deep learning-based detection of road objects from UAV aerial imagery
 
 ## Honors & Awards
 
