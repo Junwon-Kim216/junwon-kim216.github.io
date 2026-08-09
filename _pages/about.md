@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="about-flex">
   <div class="about-main">
-    <p>I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications &amp; Networking Laboratory (CNL). My research focuses on <strong>next-generation wireless communication and AI</strong> — using machine learning to make wireless networks adaptive and intelligent. <strong>I am applying to Ph.D. programs in ECE/CS for Fall 2027.</strong></p>
+    <p>I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications &amp; Networking Laboratory (CNL). My research focuses on <strong>Next-Generation Wireless Communication and AI</strong> — using machine learning to make wireless networks adaptive and intelligent. <strong>I am applying to Ph.D. programs in ECE/CS for Fall 2027.</strong></p>
 
     <div class="tag-chips">
       <span class="chip">Machine Learning for Wireless Networks</span>
