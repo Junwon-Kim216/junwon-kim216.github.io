@@ -49,15 +49,14 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Manage
 
 - **Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring**, Mar. 2026 – Jul. 2026
     * UAV–MEC split-computing pipeline for real-time object detection, robust under poor wireless channels
-    * Outstanding Presentation Award, 8th Industry–Academia Project Showcase, Future Mobility Program, Yonsei University
+    * Received the Outstanding Oral Presentation Award at the 8th Industry–Academia Project Showcase of the MOTIE/KIAT-funded Future Vehicle Core Technology Workforce Consortium (Jul. 2026).
 - **UAV-Based Dynamic Object Recognition for Digital Land-Information Mapping**, Jan. 2025 – Present
     * Research Assistant, Ministry of Land, Infrastructure and Transport (MOLIT)-funded national R&D program
     * Deep learning-based detection of road objects from UAV aerial imagery
 
 ## Honors & Awards
 
-- **Outstanding Presentation Award**, Jul. 2026
-    * 8th Industry–Academia Project Showcase, Future Mobility Program, Yonsei University
+- **Outstanding Oral Presentation Award**, 8th Industry–Academia Project Showcase of the MOTIE/KIAT Future Vehicle Core Technology Workforce Consortium · Jul. 2026
 - **Outstanding Paper Award**, Jun. 2026
     * 2026 Spring Conference of the Korea Institute of Electronic Communication Sciences (KIECS)
 - **Teaching Assistant Scholarship**, Fall 2025 & Spring 2026
