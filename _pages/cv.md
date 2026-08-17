@@ -73,8 +73,8 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Manage
 ## Skills
 
 - **Programming**: Python, C/C++, MATLAB, Verilog
-- **ML & Simulation**: PyTorch; OMNeT++, SimuLTE, Veins/SUMO, Mininet
-- **Experimental Platforms**: USRP/LabVIEW SDR platform, Wireshark
+- **ML & Simulation**: PyTorch; OMNeT++, SimuLTE, Veins/SUMO, Mininet.
+- **Experiments**: USRP, LabVIEW, Wireshark.
 - **Certification**: Class III Unmanned Multirotor Pilot Certificate, Republic of Korea
 - **Languages**: Korean (native); English
 
