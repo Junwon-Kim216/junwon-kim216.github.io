@@ -6,68 +6,29 @@ author_profile: true
 ---
 
 <style>
-  /* ===== 대제목 (섹션) ===== */
-  .page__content h2 {
+  /* 대제목 (섹션) */
+  .archive h2 {
     font-size: 1.6em;
     font-weight: 700;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 0.25em;
     margin: 1.5em 0 0.7em 0;
   }
-  /* ===== 중제목 (항목) : 왼쪽 제목 + 오른쪽 기간 ===== */
-  .page__content h3 {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0 0.75em;
+  /* 중제목 (항목 제목) */
+  .archive h3 {
     font-size: 1.05em;
-    margin: 1.2em 0 0.2em 0;
+    margin: 1.3em 0 0.25em 0;
   }
-  .page__content h2 + h3 { margin-top: 0.5em; }
-  .page__content .cv-date {
-    margin-left: auto;
-    font-weight: 400;
-    font-style: italic;
-    font-size: 0.82em;
-    color: #767676;
-    white-space: nowrap;
-  }
-  /* ===== 기관/소속 메타 줄 ===== */
-  .page__content .cv-meta {
-    font-size: 0.85em;
-    font-style: italic;
-    color: #767676;
-    line-height: 1.45;
-    margin: 0 0 0.2em 0;
-  }
-  /* ===== 랩 하위 항목 들여쓰기 (Research Experience) ===== */
-  .page__content .cv-sub {
-    margin: 0.3em 0 0 0.3em;
-    padding-left: 1.1em;
-    border-left: 2px solid #ececec;
-  }
-  .page__content .cv-role {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0 0.75em;
-    margin: 0.55em 0 0.1em 0;
-  }
-  .page__content .cv-sub > p:first-child { margin-top: 0; }
-  /* ===== 항목 내부 줄간격 축소 ===== */
-  .page__content p { margin: 0 0 0.4em 0; }
-  .page__content ul,
-  .page__content ol {
-    margin-top: 0.15em;
-    margin-bottom: 0.8em;
-  }
-  .page__content li {
-    margin-bottom: 0.12em;
-    line-height: 1.55;
-  }
-  .page__content ol > li { margin-bottom: 0.45em; }
-  .page__content li p { margin: 0; }
-  .cv-sub ul { margin-bottom: 0.6em; }
+  .archive h2 + h3 { margin-top: 0.6em; }
+  /* 중제목 하위 내용 블록 */
+  .archive .cv-body { margin-bottom: 0.5em; }
+  .archive .cv-body > p { margin: 0 0 0.3em 0; }
+  /* 줄간격 축소 */
+  .archive p { margin: 0 0 0.5em 0; }
+  .archive ul { margin: 0.15em 0 0.6em 0; }
+  .archive li { margin-bottom: 0.12em; line-height: 1.55; }
+  .archive ol > li { margin-bottom: 0.45em; }
+  .archive li p { margin: 0; }
 </style>
 
 ## Research Interests
@@ -76,19 +37,23 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 ## Education
 
-### M.S. in Electrical and Electronic Engineering <span class="cv-date">Mar. 2025 – Feb. 2027 (Expected)</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2025 – Feb. 2027 (Expected)</span>M.S. in Electrical and Electronic Engineering
 
-Yonsei University, Seoul, Republic of Korea
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, Seoul, Republic of Korea</p>
 
 - Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
 
-### B.S. in Electrical and Electronic Engineering <span class="cv-date">Mar. 2019 – Feb. 2025</span>
+</div>
 
-Yonsei University, Seoul, Republic of Korea
-{: .cv-meta}
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2019 – Feb. 2025</span>B.S. in Electrical and Electronic Engineering
+
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, Seoul, Republic of Korea</p>
 
 - Includes 1.5 years of mandatory military service (Oct. 2020 – Apr. 2022)
+
+</div>
 
 ## Publications
 
@@ -109,35 +74,28 @@ Yonsei University, Seoul, Republic of Korea
 
 ## Research Experience
 
-### Communications & Networking Laboratory (CNL), Yonsei University <span class="cv-date">Jul. 2024 – Present</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Jul. 2024 – Present</span>Communications & Networking Laboratory (CNL), Yonsei University
 
-Learning-based optimization for 6G NTN/LEO satellite networks and UAV–MEC systems
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.3em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Learning-based optimization for 6G NTN/LEO satellite networks and UAV–MEC systems</p>
 
-<div class="cv-sub" markdown="1">
-
-<span>**Graduate Research Assistant** (Advisor: Prof. Jong-Moon Chung)</span> <span class="cv-date">Mar. 2025 – Present</span>
-{: .cv-role}
+<p style="margin:0.55em 0 0.1em 0;"><span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.85em; color:#8a8a8a; white-space:nowrap;">Mar. 2025 – Present</span><strong>Graduate Research Assistant</strong> (Advisor: Prof. Jong-Moon Chung)</p>
 
 - Developed GT-PAR, a graph-transformer framework for joint inter-satellite traffic prediction and adaptive routing in dynamic LEO networks.
 - Contributed to a multi-agent reinforcement learning-based handover management study for LEO satellite networks, building the network simulator and conducting large-scale performance evaluation.
 
-<span>**Undergraduate Research Intern**</span> <span class="cv-date">Jul. 2024 – Feb. 2025</span>
-{: .cv-role}
+<p style="margin:0.55em 0 0.1em 0;"><span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.85em; color:#8a8a8a; white-space:nowrap;">Jul. 2024 – Feb. 2025</span><strong>Undergraduate Research Intern</strong></p>
 
 - Implemented and benchmarked handover and routing schemes for satellite and UAV networks through network simulation.
 
 </div>
 
-### Robotic & Mobile Networks Laboratory (RAMO), Yonsei University <span class="cv-date">Jan. 2024 – Jun. 2024</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Jan. 2024 – Jun. 2024</span>Robotic & Mobile Networks Laboratory (RAMO), Yonsei University
 
-Collaborative computing for URLLC in remote robot control over a private 5G system
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.3em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Collaborative computing for URLLC in remote robot control over a private 5G system</p>
 
-<div class="cv-sub" markdown="1">
-
-<span>**Undergraduate Research Intern, B.S. Thesis** (Advisor: Prof. Seong-Lyun Kim)</span>
-{: .cv-role}
+<p style="margin:0.55em 0 0.1em 0;"><strong>Undergraduate Research Intern, B.S. Thesis</strong> (Advisor: Prof. Seong-Lyun Kim)</p>
 
 - Built a multi-access edge computing (MEC) testbed offloading robot vision inference to an edge/core server over a private 5G network for ultra-reliable low-latency communication (URLLC) in remote robot control.
 - Deployed object detection and monocular depth estimation on the edge server with a real-time safety stop that halts the robot when an object enters its safety zone.
@@ -146,48 +104,59 @@ Collaborative computing for URLLC in remote robot control over a private 5G syst
 
 ## Selected Projects
 
-### Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring <span class="cv-date">Mar. 2026 – Jul. 2026</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2026 – Jul. 2026</span>Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring
 
-Connected Mobility Research Project (Graduate Course), Yonsei University
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Connected Mobility Research Project (Graduate Course), Yonsei University</p>
 
 - Built a UAV–MEC split-computing pipeline for real-time object detection in traffic monitoring, robust under poor wireless channels.
 - Published the results as a first-author conference paper.
 - **Outstanding Paper Award**, 2026 Spring Conference of the Korea Institute of Electronic Communication Sciences (KIECS), Jun. 2026
 - **Outstanding Oral Presentation Award**, 8th Industry–Academia Project Showcase of the MOTIE/KIAT Future Vehicle Core Technology Workforce Consortium, Jul. 2026
 
-### UAV Aerial Imagery-Based Road Object Detection for Dynamic Thematic Map Generation <span class="cv-date">Jan. 2025 – Present</span>
+</div>
 
-Research Assistant, Yonsei University — national R&D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)
-{: .cv-meta}
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Jan. 2025 – Present</span>UAV Aerial Imagery-Based Road Object Detection for Dynamic Thematic Map Generation
+
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Research Assistant, Yonsei University — national R&amp;D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)</p>
 
 - Built a deep learning-based detection system for real-time recognition of road objects from UAV aerial imagery.
 - Improved detection of small, occluded, and low-light objects via tiling-based augmentation and misalignment-tolerant EO/IR sensor fusion, meeting accuracy and latency targets in official certification testing.
 
+</div>
+
 ## Teaching Experience
 
-### Teaching Assistant, Introduction to Electrical and Computer Engineering <span class="cv-date">Mar. 2026 – Jun. 2026</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2026 – Jun. 2026</span>Teaching Assistant, Introduction to Electrical and Computer Engineering
 
-Yonsei University, School of Electrical and Electronic Engineering
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, School of Electrical and Electronic Engineering</p>
 
 - Assisted a 370-student introductory course on emerging AI, networking, and security technologies; handled grading, office hours, exam logistics, and student communication.
 
-### Teaching Assistant, Experiments on Communication Networks <span class="cv-date">Sep. 2025 – Dec. 2025</span>
+</div>
 
-Yonsei University, School of Electrical and Electronic Engineering
-{: .cv-meta}
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Sep. 2025 – Dec. 2025</span>Teaching Assistant, Experiments on Communication Networks
+
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, School of Electrical and Electronic Engineering</p>
 
 - Led hands-on labs for 20 undergraduates on packet analysis (Wireshark), spectrum sensing with CNN detection (USRP/LabVIEW), SDN routing (Mininet), and LTE/V2X simulation (OMNeT++); graded lab reports with individual feedback.
 
+</div>
+
 ## Leadership and Service
 
-### Mandatory Military Service: Training Assistant <span class="cv-date">Oct. 2020 – Apr. 2022</span>
+### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Oct. 2020 – Apr. 2022</span>Mandatory Military Service: Training Assistant
 
-Republic of Korea Army Signal School
-{: .cv-meta}
+<div class="cv-body" markdown="1" style="padding-left:1.1em;">
+<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Republic of Korea Army Signal School</p>
 
 - Assisted communications training for enlisted trainees, supporting hands-on instruction on military communication systems and course operations.
+
+
+</div>
 
 ## Technical Skills and Certifications
 
