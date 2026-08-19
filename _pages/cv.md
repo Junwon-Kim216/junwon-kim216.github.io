@@ -10,8 +10,6 @@ author_profile: true
   .page__content h3 { font-size: 1.3em; }
 </style>
 
-[Download CV (PDF)](/files/JunwonKim_CV.pdf){: .btn .btn--primary }
-
 ## Research Interests
 
 Learning-Based Network Management and Optimization, Multi-access Edge Computing, Machine Learning for Wireless Networks, Reinforcement Learning and Transformer-Based Models, 6G Non-Terrestrial Networks (NTN)
