@@ -40,7 +40,7 @@ redirect_from:
 * While GitHub Pages prevents server side code from running, client-side scripts are supported.
   * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
 
-* Your CV is available as a [PDF](/files/Junwon_Kim_CV.pdf).
+* Your CV is available as a [PDF](/files/JunwonKim_CV.pdf).
 
  * The [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/) is a useful guide for those that want to add functionality to the template or to become contributors to the [template on GitHub](https://github.com/academicpages/academicpages.github.io).
 
