@@ -21,10 +21,8 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 - **M.S. in Electrical and Electronic Engineering**, Mar. 2025 – Feb. 2027 (Expected)
   - Yonsei University, Seoul, Republic of Korea
   - Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
-  - Overall GPA: 4.11/4.3
 - **B.S. in Electrical and Electronic Engineering**, Mar. 2019 – Feb. 2025
   - Yonsei University, Seoul, Republic of Korea
-  - Overall GPA: 3.70/4.3; Major GPA: 3.83/4.3
   - Includes 1.5 years of mandatory military service (Oct. 2020 – Apr. 2022)
 
 ## Publications
