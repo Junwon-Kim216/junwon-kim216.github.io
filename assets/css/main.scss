@@ -155,7 +155,18 @@
 .project-meta {
   font-size: 0.85em;
   color: #6a6a6a;
+  margin: 0 0 0.45rem 0;
+}
+
+.project-awards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
   margin: 0 0 0.8rem 0;
+}
+
+.project-awards .pub-award {
+  margin-left: 0;
 }
 
 .project ul {
