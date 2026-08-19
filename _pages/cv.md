@@ -6,8 +6,41 @@ author_profile: true
 ---
 
 <style>
-  .page__content h2 { font-size: 1.65em; }
-  .page__content h3 { font-size: 1.3em; }
+  /* ===== Section headers (h2) ===== */
+  .page__content h2 {
+    font-size: 1.3em;
+    border-bottom: 1px solid #e4e4e4;
+    padding-bottom: 0.3em;
+    margin: 1.7em 0 0.8em 0;
+  }
+  /* ===== Entry titles & subsection labels (h3) ===== */
+  .page__content h3 {
+    font-size: 1.02em;
+    margin: 1.15em 0 0.15em 0;
+  }
+  /* ===== Meta line: institution / dates ===== */
+  .page__content .cv-meta {
+    font-size: 0.85em;
+    font-style: italic;
+    color: #6b6b6b;
+    line-height: 1.5;
+    margin: 0 0 0.25em 0;
+  }
+  /* ===== Role line inside a lab entry ===== */
+  .page__content .cv-role {
+    margin: 0.7em 0 0.1em 0;
+  }
+  /* ===== Tighten paragraph & list spacing ===== */
+  .page__content p { margin: 0 0 0.5em 0; }
+  .page__content ul,
+  .page__content ol {
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+  }
+  .page__content li { margin-bottom: 0.25em; }
+  .page__content ol > li { margin-bottom: 0.5em; }
+  .page__content li p { margin: 0; }
+  .page__content li > ul { margin-top: 0.2em; margin-bottom: 0.3em; }
 </style>
 
 ## Research Interests
@@ -16,12 +49,19 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 ## Education
 
-- **M.S. in Electrical and Electronic Engineering**, Mar. 2025 – Feb. 2027 (Expected)
-  - Yonsei University, Seoul, Republic of Korea
-  - Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
-- **B.S. in Electrical and Electronic Engineering**, Mar. 2019 – Feb. 2025
-  - Yonsei University, Seoul, Republic of Korea
-  - Includes 1.5 years of mandatory military service (Oct. 2020 – Apr. 2022)
+### M.S. in Electrical and Electronic Engineering
+
+Yonsei University, Seoul, Republic of Korea · Mar. 2025 – Feb. 2027 (Expected)
+{: .cv-meta}
+
+- Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
+
+### B.S. in Electrical and Electronic Engineering
+
+Yonsei University, Seoul, Republic of Korea · Mar. 2019 – Feb. 2025
+{: .cv-meta}
+
+- Includes 1.5 years of mandatory military service (Oct. 2020 – Apr. 2022)
 
 ## Publications
 
@@ -32,7 +72,7 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 ### Conference Papers
 
-1. **J. Kim** and J.-M. Chung, “Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation,” in *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, **Daejeon, Republic of Korea**, Jun. 2026. **(Outstanding Paper Award)**
+1. **J. Kim** and J.-M. Chung, “Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation,” in *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, Daejeon, Republic of Korea, Jun. 2026. **(Outstanding Paper Award)**
 
 ## Honors and Scholarships
 
@@ -44,26 +84,27 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 ### Communications & Networking Laboratory (CNL), Yonsei University
 
-*Jul. 2024 – Present*
-
-Learning-based optimization for 6G NTN/LEO satellite networks and UAV–MEC systems
+Jul. 2024 – Present · Learning-based optimization for 6G NTN/LEO satellite networks and UAV–MEC systems
+{: .cv-meta}
 
 **Graduate Research Assistant**, Mar. 2025 – Present (Advisor: Prof. Jong-Moon Chung)
+{: .cv-role}
 
 - Developed GT-PAR, a graph-transformer framework for joint inter-satellite traffic prediction and adaptive routing in dynamic LEO networks.
 - Contributed to a multi-agent reinforcement learning-based handover management study for LEO satellite networks, building the network simulator and conducting large-scale performance evaluation.
 
 **Undergraduate Research Intern**, Jul. 2024 – Feb. 2025
+{: .cv-role}
 
 - Implemented and benchmarked handover and routing schemes for satellite and UAV networks through network simulation.
 
 ### Robotic & Mobile Networks Laboratory (RAMO), Yonsei University
 
-*Jan. 2024 – Jun. 2024*
-
-Collaborative computing for URLLC in remote robot control over a private 5G system
+Jan. 2024 – Jun. 2024 · Collaborative computing for URLLC in remote robot control over a private 5G system
+{: .cv-meta}
 
 **Undergraduate Research Intern, B.S. Thesis** (Advisor: Prof. Seong-Lyun Kim)
+{: .cv-role}
 
 - Built a multi-access edge computing (MEC) testbed offloading robot vision inference to an edge/core server over a private 5G network for ultra-reliable low-latency communication (URLLC) in remote robot control.
 - Deployed object detection and monocular depth estimation on the edge server with a real-time safety stop that halts the robot when an object enters its safety zone.
@@ -72,9 +113,8 @@ Collaborative computing for URLLC in remote robot control over a private 5G syst
 
 ### Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring
 
-*Mar. 2026 – Jul. 2026*
-
-Connected Mobility Research Project (Graduate Course), Yonsei University
+Connected Mobility Research Project (Graduate Course), Yonsei University · Mar. 2026 – Jul. 2026
+{: .cv-meta}
 
 - Built a UAV–MEC split-computing pipeline for real-time object detection in traffic monitoring, robust under poor wireless channels.
 - Published the results as a first-author conference paper.
@@ -83,28 +123,46 @@ Connected Mobility Research Project (Graduate Course), Yonsei University
 
 ### UAV Aerial Imagery-Based Road Object Detection for Dynamic Thematic Map Generation
 
-*Jan. 2025 – Present*
+Research Assistant, Yonsei University · Jan. 2025 – Present
+{: .cv-meta}
 
-Research Assistant, Yonsei University — national R&D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)
+National R&D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)
+{: .cv-meta}
 
 - Built a deep learning-based detection system for real-time recognition of road objects from UAV aerial imagery.
 - Improved detection of small, occluded, and low-light objects via tiling-based augmentation and misalignment-tolerant EO/IR sensor fusion, meeting accuracy and latency targets in official certification testing.
 
 ## Teaching Experience
 
-- **Teaching Assistant, Introduction to Electrical and Computer Engineering**, Mar. 2026 – Jun. 2026
-  - Yonsei University, School of Electrical and Electronic Engineering
-  - Assisted a 370-student introductory course on emerging AI, networking, and security technologies; handled grading, office hours, exam logistics, and student communication.
-- **Teaching Assistant, Experiments on Communication Networks**, Sep. 2025 – Dec. 2025
-  - Yonsei University, School of Electrical and Electronic Engineering
-  - Led hands-on labs for 20 undergraduates on packet analysis (Wireshark), spectrum sensing with CNN detection (USRP/LabVIEW), SDN routing (Mininet), and LTE/V2X simulation (OMNeT++); graded lab reports with individual feedback.
+### Teaching Assistant, Introduction to Electrical and Computer Engineering
+
+Yonsei University, School of Electrical and Electronic Engineering · Mar. 2026 – Jun. 2026
+{: .cv-meta}
+
+- Assisted a 370-student introductory course on emerging AI, networking, and security technologies; handled grading, office hours, exam logistics, and student communication.
+
+### Teaching Assistant, Experiments on Communication Networks
+
+Yonsei University, School of Electrical and Electronic Engineering · Sep. 2025 – Dec. 2025
+{: .cv-meta}
+
+- Led hands-on labs for 20 undergraduates on packet analysis (Wireshark), spectrum sensing with CNN detection (USRP/LabVIEW), SDN routing (Mininet), and LTE/V2X simulation (OMNeT++); graded lab reports with individual feedback.
 
 ## Leadership and Service
 
-- **Mandatory Military Service: Training Assistant**, Republic of Korea Army Signal School, Oct. 2020 – Apr. 2022
-  - Assisted communications training for enlisted trainees, supporting hands-on instruction on military communication systems and course operations.
-- **President, POS Soccer Club**, School of Electrical and Electronic Engineering, Yonsei University, Jan. 2020 – Sep. 2020
-  - Led club operations, member coordination, and activity planning.
+### Mandatory Military Service: Training Assistant
+
+Republic of Korea Army Signal School · Oct. 2020 – Apr. 2022
+{: .cv-meta}
+
+- Assisted communications training for enlisted trainees, supporting hands-on instruction on military communication systems and course operations.
+
+### President, POS Soccer Club
+
+School of Electrical and Electronic Engineering, Yonsei University · Jan. 2020 – Sep. 2020
+{: .cv-meta}
+
+- Led club operations, member coordination, and activity planning.
 
 ## Technical Skills and Certifications
 
