@@ -126,6 +126,40 @@
   line-height: 1.6;
 }
 
+.pub-entry,
+.project-entry {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.pub-text,
+.project-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-figure-link,
+.project-figure-link {
+  flex: 0 0 auto;
+  display: block;
+}
+
+.pub-figure,
+.project-figure {
+  display: block;
+  width: 180px;
+  max-height: 125px;
+  object-fit: contain;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+}
+
+.project-figure {
+  width: 220px;
+  max-height: 160px;
+}
+
 .pub-award {
   display: inline-block;
   margin-left: 0.3rem;
@@ -171,6 +205,24 @@
 
 .project ul {
   margin-top: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .pub-entry,
+  .project-entry {
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .pub-figure {
+    width: 100px;
+    max-height: 80px;
+  }
+
+  .project-figure {
+    width: 120px;
+    max-height: 100px;
+  }
 }
 
 .cv-download {
