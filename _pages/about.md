@@ -47,7 +47,7 @@ redirect_from:
     </div>
 
     <div class="news-item">
-      <span class="news-date">DEC 2025</span>
+      <span class="news-date">MAY 2026</span>
       <p>Paper published in <strong>IEEE Transactions on Mobile Computing</strong>: <em>Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance</em> (co-author).</p>
     </div>
   </aside>
