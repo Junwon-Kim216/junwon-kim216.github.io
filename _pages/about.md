@@ -38,7 +38,7 @@ redirect_from:
 
     <div class="news-item">
       <span class="news-date">JUL 2026</span>
-      <p><strong>Outstanding Presentation Award</strong>, 8th Industry–Academia Project Showcase, Yonsei University.</p>
+      <p><strong>Outstanding Oral Presentation Award</strong>, 8th Industry–Academia Project Showcase, Yonsei University.</p>
     </div>
 
     <div class="news-item">

@@ -33,7 +33,7 @@ author_profile: true
 
 ## Research Interests
 
-Learning-Based Network Management and Optimization, Multi-access Edge Computing, Machine Learning for Wireless Networks, Reinforcement Learning and Transformer-Based Models, 6G Non-Terrestrial Networks (NTN)
+Learning-Based Network Management and Optimization, Multi-access Edge Computing, Machine Learning for Wireless Networks, O-RAN and RAN Network Slicing, 6G Non-Terrestrial Networks (NTN)
 
 ## Education
 
