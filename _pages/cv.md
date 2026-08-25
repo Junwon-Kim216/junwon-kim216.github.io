@@ -66,6 +66,10 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 1. **J. Kim** and J.-M. Chung, “Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation,” in *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, Daejeon, Republic of Korea, Jun. 2026. **(Outstanding Paper Award)**
 
+### Manuscripts in Preparation
+
+1. **J. Kim** and J.-M. Chung, “Learning-Based Inter-Slice Resource Allocation with SLA Guarantees in O-RAN,” *in preparation*.
+
 ## Honors and Scholarships
 
 - **Outstanding Oral Presentation Award**, 8th Industry–Academia Project Showcase of the MOTIE/KIAT Future Vehicle Core Technology Workforce Consortium, Jul. 2026
