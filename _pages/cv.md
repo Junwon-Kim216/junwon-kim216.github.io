@@ -168,4 +168,4 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 - **ML & Simulation**: PyTorch; OMNeT++, SimuLTE, Veins/SUMO, Mininet
 - **Experiments**: USRP, LabVIEW, Wireshark
 - **Certification**: Class III Unmanned Multirotor Pilot Certificate, Republic of Korea
-- **Languages**: Korean (native); English (proficient)
+- **Languages**: Korean (native); English

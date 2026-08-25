@@ -12,7 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junwon Kim"
 title_separator          : "-"
 name                     : &name "Junwon Kim"
-description              : &description "ML for wireless communications and 6G enabling technologies"
+description              : &description "Junwon Kim — learning-based network management for dynamic wireless networks: O-RAN and RAN slicing, LEO/NTN, and multi-access edge computing."
+og_description           : "Junwon Kim — learning-based network management for dynamic wireless networks: O-RAN and RAN slicing, LEO/NTN, and multi-access edge computing."
 url                      : "https://junwon-kim216.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -90,8 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.png" # Social media default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
