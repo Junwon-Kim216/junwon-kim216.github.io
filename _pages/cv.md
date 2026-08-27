@@ -73,6 +73,7 @@ Learning-Based Network Management and Optimization, Multi-access Edge Computing,
 
 - Developed GT-PAR, a graph-transformer framework for joint inter-satellite traffic prediction and adaptive routing in dynamic LEO networks.
 - Contributed to a multi-agent reinforcement learning-based handover management study for LEO satellite networks, building the network simulator and conducting large-scale performance evaluation.
+- Developing an inter-slice radio resource allocation xApp for the near-real-time RAN Intelligent Controller (near-RT RIC), combining reinforcement learning with stochastic network calculus to guarantee per-slice service-level agreements (in progress).
 
 <p style="margin:0.55em 0 0.1em 0;"><span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.85em; color:#8a8a8a; white-space:nowrap;">Jul. 2024 – Feb. 2025</span><strong>Undergraduate Research Intern</strong></p>
 
