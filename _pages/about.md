@@ -14,6 +14,7 @@ redirect_from:
     <div class="tag-chips">
       <span class="chip">Machine Learning for Wireless Networks</span>
       <span class="chip">O-RAN & Network Slicing</span>
+      <span class="chip">Time-Sensitive Scheduling</span>
       <span class="chip">Network Resource Management</span>
       <span class="chip">Multi-access Edge Computing</span>
       <span class="chip">Non-Terrestrial Networks</span>
