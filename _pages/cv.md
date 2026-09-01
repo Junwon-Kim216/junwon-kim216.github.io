@@ -30,11 +30,6 @@ author_profile: true
   .archive ol > li { margin-bottom: 0.45em; }
   .archive li p { margin: 0; }
 </style>
-
-## Research Interests
-
-Learning-Based Network Management and Optimization, Multi-access Edge Computing, Machine Learning for Wireless Networks, O-RAN and RAN Network Slicing, 6G Non-Terrestrial Networks (NTN)
-
 ## Education
 
 ### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2025 – Feb. 2027 (Expected)</span>M.S. in Electrical and Electronic Engineering
