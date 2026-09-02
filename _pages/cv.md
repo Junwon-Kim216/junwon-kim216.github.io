@@ -107,7 +107,7 @@ author_profile: true
 <div class="cv-body" markdown="1" style="padding-left:1.1em;">
 <p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Research Assistant, Yonsei University — national R&amp;D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)</p>
 
-- Built a deep learning-based detection system for real-time recognition of road objects from UAV aerial imagery.
+- Built a deep learning-based detection system for real-time recognition of road objects from UAV aerial imagery captured during self-piloted UAV missions.
 - Improved detection of small, occluded, and low-light objects via tiling-based augmentation and misalignment-tolerant EO/IR sensor fusion, meeting accuracy and latency targets in official certification testing.
 
 </div>
