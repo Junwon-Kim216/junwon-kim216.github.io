@@ -22,10 +22,10 @@ redirect_from:
 
     <h2>Research Focus</h2>
     <ul>
-      <li><strong>Learning-based network control</strong> — Machine learning for routing and handover in dynamic wireless environments, from LEO satellite constellations to UAV networks</li>
+      <li><strong>Learning-based network control</strong> — Machine learning for traffic and mobility management in dynamic wireless networks</li>
       <li><strong>O-RAN and network slicing</strong> — Reinforcement learning for radio resource allocation across network slices, with mathematical analysis providing per-slice SLA guarantees</li>
       <li><strong>Multi-access edge computing (MEC)</strong> — Distributing AI inference across device, edge, and network for real-time, low-latency services</li>
-      <li><strong>AI on real wireless systems</strong> — Validating learning-based methods on private 5G testbeds and UAV platforms, beyond simulation</li>
+      <li><strong>AI on real wireless systems</strong> — Validating learning-based methods on real systems (e.g., private 5G MEC, UAV platforms), bridging simulation and deployment</li>
     </ul>
   </div>
 
