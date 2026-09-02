@@ -86,29 +86,6 @@ author_profile: true
 - Built a multi-access edge computing (MEC) testbed offloading robot vision inference to an edge/core server over a private 5G network for ultra-reliable low-latency communication (URLLC) in remote robot control.
 - Deployed object detection and monocular depth estimation on the edge server with a real-time safety stop that halts the robot when an object enters its safety zone.
 
-</div>
-
-## Selected Projects
-
-### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2026 – Jul. 2026</span>Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring
-
-<div class="cv-body" markdown="1" style="padding-left:1.1em;">
-<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Connected Mobility Research Project (Graduate Course), Yonsei University</p>
-
-- Built a UAV–MEC split-computing pipeline for real-time object detection in traffic monitoring, robust under poor wireless channels.
-- Published the results as a first-author conference paper.
-- **Outstanding Paper Award**, 2026 Spring Conference of the Korea Institute of Electronic Communication Sciences (KIECS), Jun. 2026
-- **Outstanding Oral Presentation Award**, 8th Industry–Academia Project Showcase of the MOTIE/KIAT Future Vehicle Core Technology Workforce Consortium, Jul. 2026
-
-</div>
-
-### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Jan. 2025 – Present</span>UAV Aerial Imagery-Based Road Object Detection for Dynamic Thematic Map Generation
-
-<div class="cv-body" markdown="1" style="padding-left:1.1em;">
-<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Research Assistant, Yonsei University — national R&amp;D project “Development of Fixed/Moving Platform Based Dynamic Thematic Map Generation Technology for Next Generation Digital Land Information Construction,” funded by the Korea Agency for Infrastructure Technology Advancement (KAIA) under the Ministry of Land, Infrastructure and Transport (MOLIT)</p>
-
-- Built a deep learning-based detection system for real-time recognition of road objects from UAV aerial imagery captured during self-piloted UAV missions.
-- Improved detection of small, occluded, and low-light objects via tiling-based augmentation and misalignment-tolerant EO/IR sensor fusion, meeting accuracy and latency targets in official certification testing.
 
 </div>
 
