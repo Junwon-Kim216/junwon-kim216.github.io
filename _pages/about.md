@@ -17,7 +17,7 @@ redirect_from:
       <span class="chip">Time-Sensitive Scheduling</span>
       <span class="chip">Network Resource Management</span>
       <span class="chip">Multi-access Edge Computing</span>
-      <span class="chip">Non-Terrestrial Networks</span>
+      <span class="chip">6G Non-Terrestrial Networks(NTN)</span>
     </div>
 
     <h2>Research Focus</h2>
