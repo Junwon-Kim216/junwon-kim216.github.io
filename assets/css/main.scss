@@ -122,6 +122,81 @@
   }
 }
 
+/* Personal page: compact, non-interactive photo pairs. */
+.personal-page {
+  width: 100%;
+  max-width: 600px;
+}
+
+.personal-intro {
+  margin-bottom: 1.5rem;
+}
+
+.personal-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+  width: 100%;
+  max-width: 600px;
+}
+
+.personal-photo-group {
+  width: 100%;
+}
+
+.personal-photo-group h2 {
+  margin: 0 0 0.65rem;
+}
+
+.personal-photo-pair {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+
+.personal-photo-pair img {
+  display: block;
+  flex: 0 1 auto;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+  object-fit: contain;
+  cursor: default;
+  pointer-events: none;
+  transform: none;
+  transition: none;
+}
+
+.personal-photo-pair--portrait img {
+  max-height: 180px;
+}
+
+.personal-photo-pair--baseball img {
+  max-height: 140px;
+}
+
+.personal-photo-pair img:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+@media (max-width: 620px) {
+  .personal-photo-pair--baseball {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 360px) {
+  .personal-photo-pair--portrait {
+    flex-direction: column;
+  }
+}
+
 .pub-list li {
   margin-bottom: 1rem;
   line-height: 1.6;
