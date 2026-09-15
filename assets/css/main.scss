@@ -125,7 +125,7 @@
 /* Personal page: compact, non-interactive photo pairs. */
 .personal-page {
   width: 100%;
-  max-width: 600px;
+  max-width: 900px;
 }
 
 .personal-intro {
@@ -138,7 +138,7 @@
   align-items: flex-start;
   gap: 28px;
   width: 100%;
-  max-width: 600px;
+  max-width: 900px;
 }
 
 .personal-photo-group {
@@ -151,6 +151,7 @@
 
 .personal-photo-pair {
   display: flex;
+  flex-wrap: wrap;
   align-items: flex-start;
   gap: 12px;
   max-width: 100%;
@@ -158,7 +159,7 @@
 
 .personal-photo-pair img {
   display: block;
-  flex: 0 1 auto;
+  flex: 0 0 auto;
   width: auto;
   height: auto;
   max-width: 100%;
@@ -173,28 +174,16 @@
 }
 
 .personal-photo-pair--portrait img {
-  max-height: 180px;
+  max-height: 270px;
 }
 
 .personal-photo-pair--baseball img {
-  max-height: 140px;
+  max-height: 210px;
 }
 
 .personal-photo-pair img:hover {
   box-shadow: none;
   transform: none;
-}
-
-@media (max-width: 620px) {
-  .personal-photo-pair--baseball {
-    flex-direction: column;
-  }
-}
-
-@media (max-width: 360px) {
-  .personal-photo-pair--portrait {
-    flex-direction: column;
-  }
 }
 
 .pub-list li {
