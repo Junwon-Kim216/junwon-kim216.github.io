@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="personal-page">
-  <p class="personal-intro">Outside research, I enjoy playing badminton and watching baseball.</p>
+  <p class="personal-intro">Outside research, I enjoy playing badminton and watching baseball game.</p>
 
   <div class="personal-gallery">
     <section class="personal-photo-group" aria-labelledby="personal-badminton-heading">
