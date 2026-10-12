@@ -30,16 +30,12 @@ author_profile: true
   .archive ol > li { margin-bottom: 0.45em; }
   .archive li p { margin: 0; }
 </style>
-## Research Interests
-
-Learning-Based Network Management and Optimization, 6G Non-Terrestrial Networks (NTN), O-RAN and Network Slicing, Multi-access Edge Computing
-
 ## Education
 
 ### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2025 – Feb. 2027 (Expected)</span>M.S. in Electrical and Electronic Engineering
 
 <div class="cv-body" markdown="1" style="padding-left:1.1em;">
-<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, Seoul, Republic of Korea</p>
+<p style="margin:0 0 0.25em 0;">Yonsei University, Seoul, Republic of Korea</p>
 
 - Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
 
@@ -48,7 +44,7 @@ Learning-Based Network Management and Optimization, 6G Non-Terrestrial Networks 
 ### <span class="cv-date" style="float:right; margin-left:0.75em; font-weight:400; font-style:italic; font-size:0.8em; color:#8a8a8a; white-space:nowrap;">Mar. 2019 – Feb. 2025</span>B.S. in Electrical and Electronic Engineering
 
 <div class="cv-body" markdown="1" style="padding-left:1.1em;">
-<p style="margin:0 0 0.25em 0; font-size:0.85em; font-style:italic; color:#8a8a8a;">Yonsei University, Seoul, Republic of Korea</p>
+<p style="margin:0 0 0.25em 0;">Yonsei University, Seoul, Republic of Korea</p>
 
 </div>
 
